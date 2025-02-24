@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+crawl4ai
